@@ -1,0 +1,7 @@
+esse arquvi serve para texta o comando mv
+    -primeiro: o arquivo sera encaminhado para pasta texto
+    -segundo: o arqivo sera alterado para texto.py
+
+exemplos de comando:
+git mv texto_texto.txt pasta_texto/texto_texto.txt
+git mv pasta_texto/texto_texto pasta_texto/texto.txt
