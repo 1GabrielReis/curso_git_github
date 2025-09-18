@@ -13,3 +13,4 @@ while numero != numero_secreto:
     numero= int(input('digite um numero entre 0 a 100: \n'))
 
 print('parabens, você acerto! \n o numero secreto é {}'.format(numero_secreto))
+print('fim')
